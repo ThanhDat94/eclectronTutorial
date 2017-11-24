@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ThanhDat94/eclectronTutorial/issues"
   },
-  "homepage": "https://github.com/ThanhDat94/eclectronTutorial#readme"
+  "homepage": "https://github.com/ThanhDat94/eclectronTutorial#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
